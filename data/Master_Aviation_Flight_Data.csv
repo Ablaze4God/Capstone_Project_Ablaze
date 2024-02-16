@@ -1,0 +1,405 @@
+airline_name,flight_number,flight_iata,flight_date,flight_destination,departure_estimated,departure_actual,departure_delay,departure_airport,departure_airport_city
+Air France,3160,AF,2023-12-25,Schiphol,2023-12-25T15:35:00+00:00,2023-12-25T15:58:00+00:00,23.0,Calgary International Airport,Calgary
+Delta Air Lines,9390,DL,2023-12-25,Schiphol,2023-12-25T15:35:00+00:00,2023-12-25T15:58:00+00:00,23.0,Calgary International Airport,Calgary
+KLM,678,KL,2023-12-25,Schiphol,2023-12-25T15:35:00+00:00,2023-12-25T15:58:00+00:00,23.0,Calgary International Airport,Calgary
+Virgin Atlantic,6870,VS,2023-12-25,Schiphol,2023-12-25T15:35:00+00:00,2023-12-25T15:58:00+00:00,23.0,Calgary International Airport,Calgary
+Delta Air Lines,7192,DL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T10:00:00+00:00,2023-12-25T10:33:00+00:00,34.0,Calgary International Airport,Calgary
+WestJet,1590,WS,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T10:00:00+00:00,2023-12-25T10:33:00+00:00,34.0,Calgary International Airport,Calgary
+WestJet,2254,WS,2023-12-25,Cancún International,2023-12-25T08:00:00+00:00,2023-12-25T08:31:00+00:00,32.0,Calgary International Airport,Calgary
+WestJet,2310,WS,2023-12-25,Cancún International,2023-12-25T09:10:00+00:00,2023-12-25T09:42:00+00:00,33.0,Calgary International Airport,Calgary
+Cargojet,920,W8,2023-12-25,Cincinnati/Northern Kentucky,2023-12-25T18:37:00+00:00,,10.0,Calgary International Airport,Calgary
+Air Canada,4412,AC,2023-12-25,Denver International,2023-12-25T15:25:00+00:00,2023-12-25T15:31:00+00:00,6.0,Calgary International Airport,Calgary
+Air Canada,5324,AC,2023-12-25,Denver International,2023-12-25T06:19:00+00:00,2023-12-25T06:42:00+00:00,24.0,Calgary International Airport,Calgary
+Copa Airlines,1296,CM,2023-12-25,Denver International,2023-12-25T15:25:00+00:00,2023-12-25T15:31:00+00:00,6.0,Calgary International Airport,Calgary
+United Airlines,1953,UA,2023-12-25,Denver International,2023-12-25T15:25:00+00:00,2023-12-25T15:31:00+00:00,6.0,Calgary International Airport,Calgary
+United Airlines,550,UA,2023-12-25,Denver International,2023-12-25T06:19:00+00:00,2023-12-25T06:42:00+00:00,24.0,Calgary International Airport,Calgary
+American Airlines,2517,AA,2023-12-25,Dallas/Fort Worth International,2023-12-25T12:31:00+00:00,2023-12-25T13:03:00+00:00,32.0,Calgary International Airport,Calgary
+American Airlines,2521,AA,2023-12-25,Dallas/Fort Worth International,2023-12-25T06:26:00+00:00,2023-12-25T07:02:00+00:00,36.0,Calgary International Airport,Calgary
+British Airways,5752,BA,2023-12-25,Dallas/Fort Worth International,2023-12-25T06:26:00+00:00,2023-12-25T07:02:00+00:00,36.0,Calgary International Airport,Calgary
+British Airways,5753,BA,2023-12-25,Dallas/Fort Worth International,2023-12-25T12:31:00+00:00,2023-12-25T13:03:00+00:00,32.0,Calgary International Airport,Calgary
+Iberia,4097,IB,2023-12-25,Dallas/Fort Worth International,2023-12-25T06:26:00+00:00,2023-12-25T07:02:00+00:00,36.0,Calgary International Airport,Calgary
+Qantas,4476,QF,2023-12-25,Dallas/Fort Worth International,2023-12-25T12:31:00+00:00,2023-12-25T13:03:00+00:00,32.0,Calgary International Airport,Calgary
+Qatar Airways,7859,QR,2023-12-25,Dallas/Fort Worth International,2023-12-25T12:31:00+00:00,2023-12-25T13:03:00+00:00,32.0,Calgary International Airport,Calgary
+Qatar Airways,7860,QR,2023-12-25,Dallas/Fort Worth International,2023-12-25T06:26:00+00:00,2023-12-25T07:02:00+00:00,36.0,Calgary International Airport,Calgary
+Air Canada,584,AC,2023-12-25,Newark Liberty International,2023-12-25T08:30:00+00:00,2023-12-25T08:57:00+00:00,27.0,Calgary International Airport,Calgary
+United Airlines,8570,UA,2023-12-25,Newark Liberty International,2023-12-25T08:30:00+00:00,2023-12-25T08:57:00+00:00,27.0,Calgary International Airport,Calgary
+empty,,,2023-12-25,Frankfurt International Airport,2023-12-25T17:10:00+00:00,,10.0,Calgary International Airport,Calgary
+Discover Airlines,77,4Y,2023-12-25,Frankfurt International Airport,2023-12-25T17:10:00+00:00,2023-12-25T17:55:00+00:00,45.0,Calgary International Airport,Calgary
+Air Canada,7393,AC,2023-12-25,Frankfurt International Airport,2023-12-25T17:10:00+00:00,2023-12-25T17:55:00+00:00,45.0,Calgary International Airport,Calgary
+Lufthansa,4405,LH,2023-12-25,Frankfurt International Airport,2023-12-25T17:10:00+00:00,2023-12-25T17:55:00+00:00,45.0,Calgary International Airport,Calgary
+SWISS,9315,LX,2023-12-25,Frankfurt International Airport,2023-12-25T17:10:00+00:00,2023-12-25T17:55:00+00:00,45.0,Calgary International Airport,Calgary
+Austrian,8466,OS,2023-12-25,Frankfurt International Airport,2023-12-25T17:10:00+00:00,2023-12-25T17:55:00+00:00,45.0,Calgary International Airport,Calgary
+Brussels Airlines,5673,SN,2023-12-25,Frankfurt International Airport,2023-12-25T17:10:00+00:00,2023-12-25T17:55:00+00:00,45.0,Calgary International Airport,Calgary
+Delta Air Lines,6924,DL,2023-12-25,Honolulu International,2023-12-25T16:50:00+00:00,2023-12-25T17:10:00+00:00,20.0,Calgary International Airport,Calgary
+WestJet,1866,WS,2023-12-25,Honolulu International,2023-12-25T16:50:00+00:00,2023-12-25T17:10:00+00:00,20.0,Calgary International Airport,Calgary
+WestJet,2378,WS,2023-12-25,Huatulco,2023-12-25T08:45:00+00:00,2023-12-25T09:03:00+00:00,19.0,Calgary International Airport,Calgary
+Air Canada,5447,AC,2023-12-25,George Bush Intercontinental,2023-12-25T06:00:00+00:00,2023-12-25T06:30:00+00:00,30.0,Calgary International Airport,Calgary
+Aeromexico,7294,AM,2023-12-25,George Bush Intercontinental,2023-12-25T07:30:00+00:00,2023-12-25T07:56:00+00:00,26.0,Calgary International Airport,Calgary
+Aeromexico,7330,AM,2023-12-25,George Bush Intercontinental,2023-12-25T12:15:00+00:00,2023-12-25T12:37:00+00:00,23.0,Calgary International Airport,Calgary
+SA AVIANCA,2189,AV,2023-12-25,George Bush Intercontinental,2023-12-25T06:00:00+00:00,2023-12-25T06:30:00+00:00,30.0,Calgary International Airport,Calgary
+Delta Air Lines,7028,DL,2023-12-25,George Bush Intercontinental,2023-12-25T12:15:00+00:00,2023-12-25T12:37:00+00:00,23.0,Calgary International Airport,Calgary
+Delta Air Lines,7180,DL,2023-12-25,George Bush Intercontinental,2023-12-25T07:30:00+00:00,2023-12-25T07:56:00+00:00,26.0,Calgary International Airport,Calgary
+Air New Zealand,9980,NZ,2023-12-25,George Bush Intercontinental,2023-12-25T06:00:00+00:00,2023-12-25T06:30:00+00:00,30.0,Calgary International Airport,Calgary
+United Airlines,2461,UA,2023-12-25,George Bush Intercontinental,2023-12-25T06:00:00+00:00,2023-12-25T06:30:00+00:00,30.0,Calgary International Airport,Calgary
+WestJet,1534,WS,2023-12-25,George Bush Intercontinental,2023-12-25T12:15:00+00:00,2023-12-25T12:37:00+00:00,23.0,Calgary International Airport,Calgary
+WestJet,1540,WS,2023-12-25,George Bush Intercontinental,2023-12-25T07:30:00+00:00,2023-12-25T07:56:00+00:00,26.0,Calgary International Airport,Calgary
+Delta Air Lines,6948,DL,2023-12-25,John F Kennedy International,2023-12-25T09:55:00+00:00,2023-12-25T10:24:00+00:00,29.0,Calgary International Airport,Calgary
+Emirates,4654,EK,2023-12-25,John F Kennedy International,2023-12-25T09:55:00+00:00,2023-12-25T10:24:00+00:00,29.0,Calgary International Airport,Calgary
+LATAM Airlines,5166,LA,2023-12-25,John F Kennedy International,2023-12-25T09:55:00+00:00,2023-12-25T10:24:00+00:00,29.0,Calgary International Airport,Calgary
+WestJet,1680,WS,2023-12-25,John F Kennedy International,2023-12-25T09:55:00+00:00,2023-12-25T10:24:00+00:00,29.0,Calgary International Airport,Calgary
+Aeromexico,7343,AM,2023-12-25,Mc Carran International,2023-12-25T18:00:00+00:00,2023-12-25T18:21:00+00:00,21.0,Calgary International Airport,Calgary
+Delta Air Lines,7058,DL,2023-12-25,Mc Carran International,2023-12-25T15:35:00+00:00,2023-12-25T15:40:00+00:00,6.0,Calgary International Airport,Calgary
+Delta Air Lines,7132,DL,2023-12-25,Mc Carran International,2023-12-25T18:00:00+00:00,2023-12-25T18:21:00+00:00,21.0,Calgary International Airport,Calgary
+Korean Air,6570,KE,2023-12-25,Mc Carran International,2023-12-25T18:00:00+00:00,2023-12-25T18:21:00+00:00,21.0,Calgary International Airport,Calgary
+Korean Air,6634,KE,2023-12-25,Mc Carran International,2023-12-25T15:35:00+00:00,2023-12-25T15:40:00+00:00,6.0,Calgary International Airport,Calgary
+KLM,9612,KL,2023-12-25,Mc Carran International,2023-12-25T15:35:00+00:00,2023-12-25T15:40:00+00:00,6.0,Calgary International Airport,Calgary
+WestJet,1400,WS,2023-12-25,Mc Carran International,2023-12-25T18:00:00+00:00,2023-12-25T18:21:00+00:00,21.0,Calgary International Airport,Calgary
+WestJet,1624,WS,2023-12-25,Mc Carran International,2023-12-25T15:35:00+00:00,2023-12-25T15:40:00+00:00,6.0,Calgary International Airport,Calgary
+Aeromexico,7338,AM,2023-12-25,Los Angeles International,2023-12-25T19:20:00+00:00,2023-12-25T19:54:00+00:00,34.0,Calgary International Airport,Calgary
+China Airlines,9340,CI,2023-12-25,Los Angeles International,2023-12-25T09:35:00+00:00,2023-12-25T10:00:00+00:00,25.0,Calgary International Airport,Calgary
+China Airlines,9350,CI,2023-12-25,Los Angeles International,2023-12-25T14:30:00+00:00,2023-12-25T14:41:00+00:00,12.0,Calgary International Airport,Calgary
+Delta Air Lines,6886,DL,2023-12-25,Los Angeles International,2023-12-25T14:30:00+00:00,2023-12-25T14:41:00+00:00,12.0,Calgary International Airport,Calgary
+Delta Air Lines,7176,DL,2023-12-25,Los Angeles International,2023-12-25T19:20:00+00:00,2023-12-25T19:54:00+00:00,34.0,Calgary International Airport,Calgary
+Delta Air Lines,7178,DL,2023-12-25,Los Angeles International,2023-12-25T09:35:00+00:00,2023-12-25T10:00:00+00:00,25.0,Calgary International Airport,Calgary
+Emirates,4656,EK,2023-12-25,Los Angeles International,2023-12-25T09:35:00+00:00,2023-12-25T10:00:00+00:00,25.0,Calgary International Airport,Calgary
+Korean Air,6564,KE,2023-12-25,Los Angeles International,2023-12-25T14:30:00+00:00,2023-12-25T14:41:00+00:00,12.0,Calgary International Airport,Calgary
+Korean Air,6574,KE,2023-12-25,Los Angeles International,2023-12-25T19:20:00+00:00,2023-12-25T19:54:00+00:00,34.0,Calgary International Airport,Calgary
+Korean Air,6586,KE,2023-12-25,Los Angeles International,2023-12-25T09:35:00+00:00,2023-12-25T10:00:00+00:00,25.0,Calgary International Airport,Calgary
+KLM,9620,KL,2023-12-25,Los Angeles International,2023-12-25T19:20:00+00:00,2023-12-25T19:54:00+00:00,34.0,Calgary International Airport,Calgary
+LATAM Airlines,5174,LA,2023-12-25,Los Angeles International,2023-12-25T14:30:00+00:00,2023-12-25T14:41:00+00:00,12.0,Calgary International Airport,Calgary
+Qantas,3346,QF,2023-12-25,Los Angeles International,2023-12-25T19:20:00+00:00,2023-12-25T19:54:00+00:00,34.0,Calgary International Airport,Calgary
+Qantas,3354,QF,2023-12-25,Los Angeles International,2023-12-25T09:35:00+00:00,2023-12-25T10:00:00+00:00,25.0,Calgary International Airport,Calgary
+Qantas,3617,QF,2023-12-25,Los Angeles International,2023-12-25T14:30:00+00:00,2023-12-25T14:41:00+00:00,12.0,Calgary International Airport,Calgary
+WestJet,1510,WS,2023-12-25,Los Angeles International,2023-12-25T09:35:00+00:00,2023-12-25T10:00:00+00:00,25.0,Calgary International Airport,Calgary
+WestJet,1512,WS,2023-12-25,Los Angeles International,2023-12-25T19:20:00+00:00,2023-12-25T19:54:00+00:00,34.0,Calgary International Airport,Calgary
+WestJet,1514,WS,2023-12-25,Los Angeles International,2023-12-25T14:30:00+00:00,2023-12-25T14:41:00+00:00,12.0,Calgary International Airport,Calgary
+Aegean Airlines,3072,A3,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+Air Canada,850,AC,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+Lufthansa,6847,LH,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+Middle East Airlines,4512,ME,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+EgyptAir,9630,MS,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+Austrian,8238,OS,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+Thai Airways International,5811,TG,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+TAP Air Portugal,8269,TP,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+United Airlines,8586,UA,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+SriLankan Airlines,2850,UL,2023-12-25,Heathrow,2023-12-25T18:20:00+00:00,2023-12-25T18:32:00+00:00,13.0,Calgary International Airport,Calgary
+Virgin Atlantic,8008,VS,2023-12-25,Heathrow,2023-12-25T21:10:00+00:00,2023-12-25T21:28:00+00:00,19.0,Calgary International Airport,Calgary
+WestJet,18,WS,2023-12-25,Heathrow,2023-12-25T21:10:00+00:00,2023-12-25T21:28:00+00:00,19.0,Calgary International Airport,Calgary
+WestJet,2262,WS,2023-12-25,Daniel Oduber International,2023-12-25T09:00:00+00:00,2023-12-25T09:40:00+00:00,41.0,Calgary International Airport,Calgary
+Cargolux,6292,CV,2023-12-25,Findel,2023-12-25T23:30:00+00:00,2023-12-26T01:05:00+00:00,95.0,Calgary International Airport,Calgary
+Air Chathams,6292,CV,2023-12-25,Findel,2023-12-25T23:30:00+00:00,,10.0,Calgary International Airport,Calgary
+Sunwing,736,WG,2023-12-25,Sangster International,2023-12-25T08:00:00+00:00,2023-12-25T08:20:00+00:00,20.0,Calgary International Airport,Calgary
+WestJet,2228,WS,2023-12-25,Sangster International,2023-12-25T09:30:00+00:00,2023-12-25T10:06:00+00:00,37.0,Calgary International Airport,Calgary
+Aeromexico,7274,AM,2023-12-25,Orlando International,2023-12-25T09:55:00+00:00,2023-12-25T10:05:00+00:00,10.0,Calgary International Airport,Calgary
+Delta Air Lines,6937,DL,2023-12-25,Orlando International,2023-12-25T09:55:00+00:00,2023-12-25T10:05:00+00:00,10.0,Calgary International Airport,Calgary
+WestJet,1416,WS,2023-12-25,Orlando International,2023-12-25T09:55:00+00:00,2023-12-25T10:05:00+00:00,10.0,Calgary International Airport,Calgary
+Air France,2750,AF,2023-12-25,Minneapolis - St. Paul International,2023-12-25T07:45:00+00:00,2023-12-25T07:54:00+00:00,10.0,Calgary International Airport,Calgary
+Delta Air Lines,851,DL,2023-12-25,Minneapolis - St. Paul International,2023-12-25T07:45:00+00:00,2023-12-25T07:54:00+00:00,10.0,Calgary International Airport,Calgary
+KLM,7065,KL,2023-12-25,Minneapolis - St. Paul International,2023-12-25T07:45:00+00:00,2023-12-25T07:54:00+00:00,10.0,Calgary International Airport,Calgary
+Virgin Atlantic,1546,VS,2023-12-25,Minneapolis - St. Paul International,2023-12-25T07:45:00+00:00,2023-12-25T07:54:00+00:00,10.0,Calgary International Airport,Calgary
+WestJet,6392,WS,2023-12-25,Minneapolis - St. Paul International,2023-12-25T07:45:00+00:00,2023-12-25T07:54:00+00:00,10.0,Calgary International Airport,Calgary
+Delta Air Lines,7046,DL,2023-12-25,Kahului,2023-12-25T17:55:00+00:00,2023-12-25T18:09:00+00:00,14.0,Calgary International Airport,Calgary
+Airsprint,511,,2023-12-25,Albany International,2023-12-25T11:30:00+00:00,2023-12-25T11:39:00+00:00,10.0,Lester B. Pearson International,Mississauga
+Air Canada,808,AC,2023-12-25,Schiphol,2023-12-25T20:55:00+00:00,2023-12-25T21:42:00+00:00,47.0,Lester B. Pearson International,Mississauga
+Air France,8266,AF,2023-12-25,Schiphol,2023-12-25T18:00:00+00:00,2023-12-25T18:38:00+00:00,38.0,Lester B. Pearson International,Mississauga
+Delta Air Lines,9699,DL,2023-12-25,Schiphol,2023-12-25T18:00:00+00:00,2023-12-25T18:38:00+00:00,38.0,Lester B. Pearson International,Mississauga
+KLM,692,KL,2023-12-25,Schiphol,2023-12-25T18:00:00+00:00,2023-12-25T18:38:00+00:00,38.0,Lester B. Pearson International,Mississauga
+Lufthansa,6843,LH,2023-12-25,Schiphol,2023-12-25T20:55:00+00:00,2023-12-25T21:42:00+00:00,47.0,Lester B. Pearson International,Mississauga
+Austrian,8228,OS,2023-12-25,Schiphol,2023-12-25T20:55:00+00:00,2023-12-25T21:42:00+00:00,47.0,Lester B. Pearson International,Mississauga
+United Airlines,8126,UA,2023-12-25,Schiphol,2023-12-25T20:55:00+00:00,2023-12-25T21:42:00+00:00,47.0,Lester B. Pearson International,Mississauga
+Virgin Atlantic,6871,VS,2023-12-25,Schiphol,2023-12-25T18:00:00+00:00,2023-12-25T18:38:00+00:00,38.0,Lester B. Pearson International,Mississauga
+Air Canada Rouge,1832,RV,2023-12-25,V. C. Bird International,2023-12-25T10:00:00+00:00,2023-12-25T11:35:00+00:00,95.0,Lester B. Pearson International,Mississauga
+Airsprint,668,,2023-12-25,Naples,2023-12-25T15:00:00+00:00,2023-12-25T14:53:00+00:00,,Lester B. Pearson International,Mississauga
+FlyGTA Airlines,269,SX,2023-12-25,Naples,2023-12-25T10:00:00+00:00,,,Lester B. Pearson International,Mississauga
+Airsprint,595,,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T08:00:00+00:00,2023-12-25T08:19:00+00:00,20.0,Lester B. Pearson International,Mississauga
+Air Canada,1307,AC,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T14:10:00+00:00,2023-12-25T14:38:00+00:00,28.0,Lester B. Pearson International,Mississauga
+Air Canada,8957,AC,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:10:00+00:00,2023-12-25T18:31:00+00:00,21.0,Lester B. Pearson International,Mississauga
+Aeromexico,3378,AM,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T12:25:00+00:00,2023-12-25T12:25:00+00:00,1.0,Lester B. Pearson International,Mississauga
+Aeromexico,5516,AM,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T06:15:00+00:00,2023-12-25T06:41:00+00:00,26.0,Lester B. Pearson International,Mississauga
+Delta Air Lines,1183,DL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T12:25:00+00:00,2023-12-25T12:25:00+00:00,1.0,Lester B. Pearson International,Mississauga
+Delta Air Lines,1212,DL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T06:15:00+00:00,2023-12-25T06:41:00+00:00,26.0,Lester B. Pearson International,Mississauga
+Delta Air Lines,2204,DL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:14:00+00:00,2023-12-25T18:30:00+00:00,16.0,Lester B. Pearson International,Mississauga
+Korean Air,3621,KE,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:14:00+00:00,2023-12-25T18:30:00+00:00,16.0,Lester B. Pearson International,Mississauga
+Korean Air,3795,KE,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T06:15:00+00:00,2023-12-25T06:41:00+00:00,26.0,Lester B. Pearson International,Mississauga
+KLM,5433,KL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T12:25:00+00:00,2023-12-25T12:25:00+00:00,1.0,Lester B. Pearson International,Mississauga
+KLM,5435,KL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T06:15:00+00:00,2023-12-25T06:41:00+00:00,26.0,Lester B. Pearson International,Mississauga
+KLM,7495,KL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:14:00+00:00,2023-12-25T18:30:00+00:00,16.0,Lester B. Pearson International,Mississauga
+LATAM Airlines,6207,LA,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:14:00+00:00,2023-12-25T18:30:00+00:00,16.0,Lester B. Pearson International,Mississauga
+LATAM Airlines,6294,LA,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T06:15:00+00:00,2023-12-25T06:41:00+00:00,26.0,Lester B. Pearson International,Mississauga
+LATAM Airlines,7985,LA,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T12:25:00+00:00,2023-12-25T12:25:00+00:00,1.0,Lester B. Pearson International,Mississauga
+United Airlines,8110,UA,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:10:00+00:00,2023-12-25T18:31:00+00:00,21.0,Lester B. Pearson International,Mississauga
+United Airlines,8132,UA,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T14:10:00+00:00,2023-12-25T14:38:00+00:00,28.0,Lester B. Pearson International,Mississauga
+WestJet,6300,WS,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:14:00+00:00,2023-12-25T18:30:00+00:00,16.0,Lester B. Pearson International,Mississauga
+WestJet,6304,WS,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T06:15:00+00:00,2023-12-25T06:41:00+00:00,26.0,Lester B. Pearson International,Mississauga
+WestJet,6343,WS,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T12:25:00+00:00,2023-12-25T12:25:00+00:00,1.0,Lester B. Pearson International,Mississauga
+flydubai,7106,FZ,2023-12-25,Reina Beatrix,2023-12-25T09:30:00+00:00,2023-12-25T09:50:00+00:00,20.0,Lester B. Pearson International,Mississauga
+Air Canada Rouge,1826,RV,2023-12-25,Reina Beatrix,2023-12-25T10:00:00+00:00,2023-12-25T10:19:00+00:00,20.0,Lester B. Pearson International,Mississauga
+Sunwing,7106,WG,2023-12-25,Reina Beatrix,2023-12-25T09:30:00+00:00,,,Lester B. Pearson International,Mississauga
+Air Canada,6670,AC,2023-12-25,Abu Dhabi International,2023-12-25T20:30:00+00:00,2023-12-25T21:17:00+00:00,48.0,Lester B. Pearson International,Mississauga
+Etihad Airways,140,EY,2023-12-25,Abu Dhabi International,2023-12-25T20:30:00+00:00,2023-12-25T21:17:00+00:00,48.0,Lester B. Pearson International,Mississauga
+Air Canada,1043,AC,2023-12-25,Austin-bergstrom International,2023-12-25T08:00:00+00:00,,10.0,Lester B. Pearson International,Mississauga
+Air Canada Rouge,1043,RV,2023-12-25,Austin-bergstrom International,2023-12-25T08:00:00+00:00,2023-12-25T08:21:00+00:00,21.0,Lester B. Pearson International,Mississauga
+United Airlines,8639,UA,2023-12-25,Austin-bergstrom International,2023-12-25T08:00:00+00:00,2023-12-25T08:21:00+00:00,21.0,Lester B. Pearson International,Mississauga
+Air Transat,3512,TS,2023-12-25,Samaná El Catey International,2023-12-25T07:30:00+00:00,,,Lester B. Pearson International,Mississauga
+Sunwing,3512,WG,2023-12-25,Samaná El Catey International,2023-12-25T07:30:00+00:00,2023-12-25T07:50:00+00:00,21.0,Lester B. Pearson International,Mississauga
+empty,,,2023-12-25,Public,2023-12-25T14:00:00+00:00,2023-12-25T14:14:00+00:00,14.0,Lester B. Pearson International,Mississauga
+Air Canada,966,AC,2023-12-25,Grantley Adams International,2023-12-25T08:45:00+00:00,,315.0,Lester B. Pearson International,Mississauga
+WestJet,2512,WS,2023-12-25,Grantley Adams International,2023-12-25T08:30:00+00:00,2023-12-25T08:38:00+00:00,9.0,Lester B. Pearson International,Mississauga
+Air Canada Rouge,1737,RV,2023-12-25,Nashville International,2023-12-25T08:00:00+00:00,2023-12-25T08:25:00+00:00,26.0,Lester B. Pearson International,Mississauga
+United Airlines,8697,UA,2023-12-25,Nashville International,2023-12-25T08:00:00+00:00,2023-12-25T08:25:00+00:00,26.0,Lester B. Pearson International,Mississauga
+SA AVIANCA,205,AV,2023-12-25,El Nuevo Dorado International,2023-12-25T22:55:00+00:00,2023-12-25T23:08:00+00:00,14.0,Lester B. Pearson International,Mississauga
+Air Canada,764,AC,2023-12-25,Logan International,2023-12-25T09:05:00+00:00,2023-12-25T09:35:00+00:00,31.0,Lester B. Pearson International,Mississauga
+Air Canada,768,AC,2023-12-25,Logan International,2023-12-25T14:25:00+00:00,2023-12-25T14:43:00+00:00,18.0,Lester B. Pearson International,Mississauga
+Air Canada,772,AC,2023-12-25,Logan International,2023-12-25T20:55:00+00:00,2023-12-25T21:23:00+00:00,28.0,Lester B. Pearson International,Mississauga
+SAS,3896,SK,2023-12-25,Logan International,2023-12-25T14:25:00+00:00,2023-12-25T14:43:00+00:00,18.0,Lester B. Pearson International,Mississauga
+Turkish Airlines,8678,TK,2023-12-25,Logan International,2023-12-25T20:55:00+00:00,2023-12-25T21:23:00+00:00,28.0,Lester B. Pearson International,Mississauga
+TAP Air Portugal,8270,TP,2023-12-25,Logan International,2023-12-25T14:25:00+00:00,2023-12-25T14:43:00+00:00,18.0,Lester B. Pearson International,Mississauga
+United Airlines,8214,UA,2023-12-25,Logan International,2023-12-25T09:05:00+00:00,2023-12-25T09:35:00+00:00,31.0,Lester B. Pearson International,Mississauga
+United Airlines,8530,UA,2023-12-25,Logan International,2023-12-25T20:55:00+00:00,2023-12-25T21:23:00+00:00,28.0,Lester B. Pearson International,Mississauga
+United Airlines,8536,UA,2023-12-25,Logan International,2023-12-25T14:25:00+00:00,2023-12-25T14:43:00+00:00,18.0,Lester B. Pearson International,Mississauga
+Chartright Air,287,,2023-12-25,Buffalo Niagara International,2023-12-25T13:30:00+00:00,2023-12-25T13:47:00+00:00,17.0,Lester B. Pearson International,Mississauga
+Air Canada,8684,AC,2023-12-25,Baltimore/Washington International Thurgood Marshall,2023-12-25T18:45:00+00:00,2023-12-25T19:03:00+00:00,18.0,Lester B. Pearson International,Mississauga
+United Airlines,8145,UA,2023-12-25,Baltimore/Washington International Thurgood Marshall,2023-12-25T18:45:00+00:00,2023-12-25T19:03:00+00:00,18.0,Lester B. Pearson International,Mississauga
+EgyptAir,996,MS,2023-12-25,Cairo International Airport,2023-12-25T12:45:00+00:00,2023-12-25T12:46:00+00:00,1.0,Lester B. Pearson International,Mississauga
+Sunwing,2316,WG,2023-12-25,"Jardines Del Rey Airport
+",2023-12-25T06:15:00+00:00,2023-12-25T06:38:00+00:00,24.0,Lester B. Pearson International,Mississauga
+Sunwing,6100,WG,2023-12-25,"Jardines Del Rey Airport
+",2023-12-25T17:35:00+00:00,2023-12-25T17:48:00+00:00,14.0,Lester B. Pearson International,Mississauga
+Air Canada,872,AC,2023-12-25,Charles De Gaulle,2023-12-25T20:45:00+00:00,2023-12-25T22:03:00+00:00,79.0,Lester B. Pearson International,Mississauga
+Air France,351,AF,2023-12-25,Charles De Gaulle,2023-12-25T18:55:00+00:00,,10.0,Lester B. Pearson International,Mississauga
+Air France,4081,AF,2023-12-25,Charles De Gaulle,2023-12-25T20:30:00+00:00,2023-12-25T22:33:00+00:00,123.0,Lester B. Pearson International,Mississauga
+Delta Air Lines,8617,DL,2023-12-25,Charles De Gaulle,2023-12-25T18:55:00+00:00,,10.0,Lester B. Pearson International,Mississauga
+Ethiopian Airlines,1142,ET,2023-12-25,Charles De Gaulle,2023-12-25T20:45:00+00:00,2023-12-25T22:03:00+00:00,79.0,Lester B. Pearson International,Mississauga
+KLM,2443,KL,2023-12-25,Charles De Gaulle,2023-12-25T18:55:00+00:00,,10.0,Lester B. Pearson International,Mississauga
+Lufthansa,6825,LH,2023-12-25,Charles De Gaulle,2023-12-25T20:45:00+00:00,2023-12-25T22:03:00+00:00,79.0,Lester B. Pearson International,Mississauga
+Middle East Airlines,4351,ME,2023-12-25,Charles De Gaulle,2023-12-25T18:55:00+00:00,,10.0,Lester B. Pearson International,Mississauga
+Austrian,8244,OS,2023-12-25,Charles De Gaulle,2023-12-25T20:45:00+00:00,2023-12-25T22:03:00+00:00,79.0,Lester B. Pearson International,Mississauga
+Brussels Airlines,9638,SN,2023-12-25,Charles De Gaulle,2023-12-25T20:45:00+00:00,2023-12-25T22:03:00+00:00,79.0,Lester B. Pearson International,Mississauga
+United Airlines,8252,UA,2023-12-25,Charles De Gaulle,2023-12-25T20:45:00+00:00,2023-12-25T22:03:00+00:00,79.0,Lester B. Pearson International,Mississauga
+Virgin Atlantic,6798,VS,2023-12-25,Charles De Gaulle,2023-12-25T18:55:00+00:00,,10.0,Lester B. Pearson International,Mississauga
+NetJets Aviation,,1I,2023-12-25,Hopkins International,2023-12-25T16:36:00+00:00,,6.0,Lester B. Pearson International,Mississauga
+American Airlines,5020,AA,2023-12-25,Charlotte Douglas,2023-12-25T11:50:00+00:00,2023-12-25T12:06:00+00:00,16.0,Lester B. Pearson International,Mississauga
+American Airlines,5030,AA,2023-12-25,Charlotte Douglas,2023-12-25T19:09:00+00:00,2023-12-25T19:49:00+00:00,41.0,Lester B. Pearson International,Mississauga
+American Airlines,5046,AA,2023-12-25,Charlotte Douglas,2023-12-25T06:00:00+00:00,2023-12-25T06:30:00+00:00,31.0,Lester B. Pearson International,Mississauga
+American Airlines,5047,AA,2023-12-25,Charlotte Douglas,2023-12-25T13:50:00+00:00,2023-12-25T14:28:00+00:00,39.0,Lester B. Pearson International,Mississauga
+American Airlines,5076,AA,2023-12-25,Charlotte Douglas,2023-12-25T16:20:00+00:00,2023-12-25T16:30:00+00:00,10.0,Lester B. Pearson International,Mississauga
+Air Canada,749,AC,2023-12-25,Charlotte Douglas,2023-12-25T20:00:00+00:00,2023-12-25T20:17:00+00:00,17.0,Lester B. Pearson International,Mississauga
+Air Canada,8747,AC,2023-12-25,Charlotte Douglas,2023-12-25T14:20:00+00:00,2023-12-25T14:27:00+00:00,8.0,Lester B. Pearson International,Mississauga
+Air Canada,8749,AC,2023-12-25,Charlotte Douglas,2023-12-25T20:00:00+00:00,,20.0,Lester B. Pearson International,Mississauga
+Jazz,749,QK,2023-12-25,Charlotte Douglas,2023-12-25T20:00:00+00:00,,20.0,Lester B. Pearson International,Mississauga
+Turkish Airlines,8650,TK,2023-12-25,Charlotte Douglas,2023-12-25T14:20:00+00:00,2023-12-25T14:27:00+00:00,8.0,Lester B. Pearson International,Mississauga
+United Airlines,8311,UA,2023-12-25,Charlotte Douglas,2023-12-25T20:00:00+00:00,,20.0,Lester B. Pearson International,Mississauga
+United Airlines,8314,UA,2023-12-25,Charlotte Douglas,2023-12-25T14:20:00+00:00,2023-12-25T14:27:00+00:00,8.0,Lester B. Pearson International,Mississauga
+Air Canada,8753,AC,2023-12-25,Port Columbus International,2023-12-25T14:55:00+00:00,2023-12-25T15:03:00+00:00,8.0,Lester B. Pearson International,Mississauga
+United Airlines,8165,UA,2023-12-25,Port Columbus International,2023-12-25T14:55:00+00:00,2023-12-25T15:03:00+00:00,8.0,Lester B. Pearson International,Mississauga
+Aegean Airlines,3056,A3,2023-12-25,Kastrup,2023-12-25T21:20:00+00:00,2023-12-25T22:18:00+00:00,58.0,Lester B. Pearson International,Mississauga
+Air Canada,828,AC,2023-12-25,Kastrup,2023-12-25T21:20:00+00:00,2023-12-25T22:18:00+00:00,58.0,Lester B. Pearson International,Mississauga
+Lufthansa,6823,LH,2023-12-25,Kastrup,2023-12-25T21:20:00+00:00,2023-12-25T22:18:00+00:00,58.0,Lester B. Pearson International,Mississauga
+Austrian,8274,OS,2023-12-25,Kastrup,2023-12-25T21:20:00+00:00,2023-12-25T22:18:00+00:00,58.0,Lester B. Pearson International,Mississauga
+Thai Airways International,5809,TG,2023-12-25,Kastrup,2023-12-25T21:20:00+00:00,2023-12-25T22:18:00+00:00,58.0,Lester B. Pearson International,Mississauga
+United Airlines,8524,UA,2023-12-25,Kastrup,2023-12-25T21:20:00+00:00,2023-12-25T22:18:00+00:00,58.0,Lester B. Pearson International,Mississauga
+Air Canada,7060,AC,2023-12-25,Cancún International,2023-12-25T12:00:00+00:00,2023-12-25T12:17:00+00:00,18.0,Lester B. Pearson International,Mississauga
+Air Canada,930,AC,2023-12-25,Cancún International,2023-12-25T08:50:00+00:00,2023-12-25T09:46:00+00:00,57.0,Lester B. Pearson International,Mississauga
+Flair Airlines,2610,F8,2023-12-25,Cancún International,2023-12-25T06:55:00+00:00,2023-12-25T07:10:00+00:00,16.0,Lester B. Pearson International,Mississauga
+Lufthansa,7154,LH,2023-12-25,Auckland International,2023-12-25T18:30:00+00:00,2023-12-25T19:00:00+00:00,30.0,Vancouver International,Vancouver
+Air New Zealand,23,NZ,2023-12-25,Auckland International,2023-12-25T18:30:00+00:00,2023-12-25T19:00:00+00:00,30.0,Vancouver International,Vancouver
+Air France,8377,AF,2023-12-25,Schiphol,2023-12-25T15:35:00+00:00,2023-12-25T16:42:00+00:00,68.0,Vancouver International,Vancouver
+Delta Air Lines,9369,DL,2023-12-25,Schiphol,2023-12-25T15:35:00+00:00,2023-12-25T16:42:00+00:00,68.0,Vancouver International,Vancouver
+KLM,682,KL,2023-12-25,Schiphol,2023-12-25T15:35:00+00:00,2023-12-25T16:42:00+00:00,68.0,Vancouver International,Vancouver
+Virgin Atlantic,6873,VS,2023-12-25,Schiphol,2023-12-25T15:35:00+00:00,2023-12-25T16:42:00+00:00,68.0,Vancouver International,Vancouver
+Delta Air Lines,7057,DL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T22:45:00+00:00,2023-12-25T22:55:00+00:00,10.0,Vancouver International,Vancouver
+WestJet,1598,WS,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T22:45:00+00:00,2023-12-25T22:55:00+00:00,10.0,Vancouver International,Vancouver
+Air Canada,65,AC,2023-12-25,Suvarnabhumi International,2023-12-25T22:45:00+00:00,2023-12-25T23:04:00+00:00,20.0,Vancouver International,Vancouver
+Air Canada,35,AC,2023-12-25,Brisbane International,2023-12-25T23:40:00+00:00,2023-12-26T00:09:00+00:00,29.0,Vancouver International,Vancouver
+Virgin Australia,5155,VA,2023-12-25,Brisbane International,2023-12-25T23:40:00+00:00,2023-12-26T00:09:00+00:00,29.0,Vancouver International,Vancouver
+Air Canada,7050,AC,2023-12-25,Cancún International,2023-12-25T07:00:00+00:00,,,Vancouver International,Vancouver
+Air Canada,932,AC,2023-12-25,Cancún International,2023-12-25T08:10:00+00:00,2023-12-25T09:24:00+00:00,75.0,Vancouver International,Vancouver
+Flair Airlines,2810,F8,2023-12-25,Cancún International,2023-12-25T23:20:00+00:00,2023-12-26T00:07:00+00:00,47.0,Vancouver International,Vancouver
+Sunwing,5197,WG,2023-12-25,Cancún International,2023-12-25T10:00:00+00:00,2023-12-25T10:45:00+00:00,45.0,Vancouver International,Vancouver
+WestJet,2056,WS,2023-12-25,Cancún International,2023-12-25T10:25:00+00:00,2023-12-25T10:43:00+00:00,18.0,Vancouver International,Vancouver
+Cargojet,1925,W8,2023-12-25,Cincinnati/Northern Kentucky,2023-12-25T19:10:00+00:00,,10.0,Vancouver International,Vancouver
+Air India,186,AI,2023-12-25,Indira Gandhi International,2023-12-25T10:00:00+00:00,2023-12-25T10:08:00+00:00,8.0,Vancouver International,Vancouver
+Air Canada,4095,AC,2023-12-25,Denver International,2023-12-25T08:30:00+00:00,2023-12-25T09:05:00+00:00,35.0,Vancouver International,Vancouver
+Air Canada,4592,AC,2023-12-25,Denver International,2023-12-25T12:44:00+00:00,2023-12-25T12:54:00+00:00,11.0,Vancouver International,Vancouver
+Air Canada,572,AC,2023-12-25,Denver International,2023-12-25T14:05:00+00:00,2023-12-25T14:13:00+00:00,9.0,Vancouver International,Vancouver
+Air Canada,574,AC,2023-12-25,Denver International,2023-12-25T20:00:00+00:00,2023-12-25T20:13:00+00:00,13.0,Vancouver International,Vancouver
+Copa Airlines,1293,CM,2023-12-25,Denver International,2023-12-25T12:44:00+00:00,2023-12-25T12:54:00+00:00,11.0,Vancouver International,Vancouver
+United Airlines,1036,UA,2023-12-25,Denver International,2023-12-25T12:44:00+00:00,2023-12-25T12:54:00+00:00,11.0,Vancouver International,Vancouver
+United Airlines,640,UA,2023-12-25,Denver International,2023-12-25T08:30:00+00:00,2023-12-25T09:05:00+00:00,35.0,Vancouver International,Vancouver
+United Airlines,8563,UA,2023-12-25,Denver International,2023-12-25T20:00:00+00:00,2023-12-25T20:13:00+00:00,13.0,Vancouver International,Vancouver
+United Airlines,8613,UA,2023-12-25,Denver International,2023-12-25T14:05:00+00:00,2023-12-25T14:13:00+00:00,9.0,Vancouver International,Vancouver
+American Airlines,1099,AA,2023-12-25,Dallas/Fort Worth International,2023-12-25T07:01:00+00:00,2023-12-25T07:17:00+00:00,17.0,Vancouver International,Vancouver
+American Airlines,1415,AA,2023-12-25,Dallas/Fort Worth International,2023-12-25T13:01:00+00:00,2023-12-25T13:18:00+00:00,18.0,Vancouver International,Vancouver
+Alaska Airlines,6299,AS,2023-12-25,Dallas/Fort Worth International,2023-12-25T13:01:00+00:00,2023-12-25T13:18:00+00:00,18.0,Vancouver International,Vancouver
+Alaska Airlines,6308,AS,2023-12-25,Dallas/Fort Worth International,2023-12-25T07:01:00+00:00,2023-12-25T07:17:00+00:00,17.0,Vancouver International,Vancouver
+British Airways,5750,BA,2023-12-25,Dallas/Fort Worth International,2023-12-25T13:01:00+00:00,2023-12-25T13:18:00+00:00,18.0,Vancouver International,Vancouver
+British Airways,5751,BA,2023-12-25,Dallas/Fort Worth International,2023-12-25T07:01:00+00:00,2023-12-25T07:17:00+00:00,17.0,Vancouver International,Vancouver
+Iberia,4394,IB,2023-12-25,Dallas/Fort Worth International,2023-12-25T07:01:00+00:00,2023-12-25T07:17:00+00:00,17.0,Vancouver International,Vancouver
+Qantas,4474,QF,2023-12-25,Dallas/Fort Worth International,2023-12-25T13:01:00+00:00,2023-12-25T13:18:00+00:00,18.0,Vancouver International,Vancouver
+Qatar Airways,7857,QR,2023-12-25,Dallas/Fort Worth International,2023-12-25T13:01:00+00:00,2023-12-25T13:18:00+00:00,18.0,Vancouver International,Vancouver
+Qatar Airways,7858,QR,2023-12-25,Dallas/Fort Worth International,2023-12-25T07:01:00+00:00,2023-12-25T07:17:00+00:00,17.0,Vancouver International,Vancouver
+Air Canada,78,AC,2023-12-25,Dubai,2023-12-25T21:15:00+00:00,2023-12-25T21:35:00+00:00,21.0,Vancouver International,Vancouver
+Air Canada,548,AC,2023-12-25,Newark Liberty International,2023-12-25T08:10:00+00:00,2023-12-25T08:44:00+00:00,34.0,Vancouver International,Vancouver
+United Airlines,8619,UA,2023-12-25,Newark Liberty International,2023-12-25T08:10:00+00:00,2023-12-25T08:44:00+00:00,34.0,Vancouver International,Vancouver
+Air Canada,9100,AC,2023-12-25,Frankfurt International Airport,2023-12-25T13:30:00+00:00,,10.0,Vancouver International,Vancouver
+Lufthansa,493,LH,2023-12-25,Frankfurt International Airport,2023-12-25T13:30:00+00:00,,10.0,Vancouver International,Vancouver
+SWISS,4017,LX,2023-12-25,Frankfurt International Airport,2023-12-25T13:30:00+00:00,,10.0,Vancouver International,Vancouver
+Air New Zealand,4231,NZ,2023-12-25,Frankfurt International Airport,2023-12-25T13:30:00+00:00,,10.0,Vancouver International,Vancouver
+Air Canada,21,AC,2023-12-25,Hong Kong International,2023-12-25T23:15:00+00:00,2023-12-25T23:46:00+00:00,31.0,Vancouver International,Vancouver
+Air Canada,7,AC,2023-12-25,Hong Kong International,2023-12-25T12:05:00+00:00,2023-12-25T12:20:00+00:00,16.0,Vancouver International,Vancouver
+Cathay Pacific,865,CX,2023-12-25,Hong Kong International,2023-12-25T00:05:00+00:00,,60.0,Vancouver International,Vancouver
+Thai Airways International,5867,TG,2023-12-25,Hong Kong International,2023-12-25T12:05:00+00:00,2023-12-25T12:20:00+00:00,16.0,Vancouver International,Vancouver
+Air Canada,6249,AC,2023-12-25,Haneda Airport,2023-12-25T15:15:00+00:00,2023-12-25T15:30:00+00:00,16.0,Vancouver International,Vancouver
+ANA,115,NH,2023-12-25,Haneda Airport,2023-12-25T15:15:00+00:00,2023-12-25T15:30:00+00:00,16.0,Vancouver International,Vancouver
+United Airlines,7993,UA,2023-12-25,Haneda Airport,2023-12-25T15:15:00+00:00,2023-12-25T15:30:00+00:00,16.0,Vancouver International,Vancouver
+Air Canada,517,AC,2023-12-25,Honolulu International,2023-12-25T08:20:00+00:00,2023-12-25T08:42:00+00:00,22.0,Vancouver International,Vancouver
+Air Canada,519,AC,2023-12-25,Honolulu International,2023-12-25T17:20:00+00:00,2023-12-25T18:05:00+00:00,45.0,Vancouver International,Vancouver
+Delta Air Lines,7054,DL,2023-12-25,Honolulu International,2023-12-25T10:00:00+00:00,2023-12-25T10:23:00+00:00,23.0,Vancouver International,Vancouver
+Jet Linx Aviation,5816,JL,2023-12-25,Honolulu International,2023-12-25T10:00:00+00:00,2023-12-25T10:23:00+00:00,23.0,Vancouver International,Vancouver
+Lufthansa,6492,LH,2023-12-25,Honolulu International,2023-12-25T17:20:00+00:00,2023-12-25T18:05:00+00:00,45.0,Vancouver International,Vancouver
+Air New Zealand,4501,NZ,2023-12-25,Honolulu International,2023-12-25T08:20:00+00:00,2023-12-25T08:42:00+00:00,22.0,Vancouver International,Vancouver
+Air New Zealand,4509,NZ,2023-12-25,Honolulu International,2023-12-25T17:20:00+00:00,2023-12-25T18:05:00+00:00,45.0,Vancouver International,Vancouver
+Qantas,3384,QF,2023-12-25,Honolulu International,2023-12-25T10:00:00+00:00,2023-12-25T10:23:00+00:00,23.0,Vancouver International,Vancouver
+WestJet,1862,WS,2023-12-25,Honolulu International,2023-12-25T10:00:00+00:00,2023-12-25T10:23:00+00:00,23.0,Vancouver International,Vancouver
+WestJet,2050,WS,2023-12-25,Huatulco,2023-12-25T09:15:00+00:00,2023-12-25T09:34:00+00:00,19.0,Vancouver International,Vancouver
+Air Canada,1036,AC,2023-12-25,Washington Dulles International,2023-12-25T08:50:00+00:00,2023-12-25T09:19:00+00:00,29.0,Vancouver International,Vancouver
+United Airlines,6638,UA,2023-12-25,Washington Dulles International,2023-12-25T08:50:00+00:00,2023-12-25T09:19:00+00:00,29.0,Vancouver International,Vancouver
+Air Canada,1300,AC,2023-12-25,George Bush Intercontinental,2023-12-25T08:35:00+00:00,2023-12-25T08:48:00+00:00,14.0,Vancouver International,Vancouver
+Air Canada,5290,AC,2023-12-25,George Bush Intercontinental,2023-12-25T12:25:00+00:00,2023-12-25T12:35:00+00:00,11.0,Vancouver International,Vancouver
+Air New Zealand,9976,NZ,2023-12-25,George Bush Intercontinental,2023-12-25T12:25:00+00:00,2023-12-25T12:35:00+00:00,11.0,Vancouver International,Vancouver
+United Airlines,562,UA,2023-12-25,George Bush Intercontinental,2023-12-25T12:25:00+00:00,2023-12-25T12:35:00+00:00,11.0,Vancouver International,Vancouver
+United Airlines,6622,UA,2023-12-25,George Bush Intercontinental,2023-12-25T08:35:00+00:00,2023-12-25T08:48:00+00:00,14.0,Vancouver International,Vancouver
+Air Canada,63,AC,2023-12-25,Seoul (Incheon),2023-12-25T12:05:00+00:00,2023-12-25T12:38:00+00:00,33.0,Vancouver International,Vancouver
+Korean Air,72,KE,2023-12-25,Seoul (Incheon),2023-12-25T13:05:00+00:00,2023-12-25T13:15:00+00:00,10.0,Vancouver International,Vancouver
+Asiana Airlines,6101,OZ,2023-12-25,Seoul (Incheon),2023-12-25T12:05:00+00:00,2023-12-25T12:38:00+00:00,33.0,Vancouver International,Vancouver
+Singapore Airlines,1003,SQ,2023-12-25,Seoul (Incheon),2023-12-25T12:05:00+00:00,2023-12-25T12:38:00+00:00,33.0,Vancouver International,Vancouver
+WestJet,6062,WS,2023-12-25,Seoul (Incheon),2023-12-25T13:05:00+00:00,2023-12-25T13:15:00+00:00,10.0,Vancouver International,Vancouver
+JetBlue Airways,1974,B6,2023-12-25,John F Kennedy International,2023-12-25T22:34:00+00:00,2023-12-26T00:30:00+00:00,116.0,Vancouver International,Vancouver
+Qatar Airways,3963,QR,2023-12-25,John F Kennedy International,2023-12-25T22:34:00+00:00,2023-12-26T00:30:00+00:00,116.0,Vancouver International,Vancouver
+Cathay Pacific,865,CX,2023-12-25,Kansai International,2023-12-25T00:05:00+00:00,2023-12-25T03:39:00+00:00,215.0,Vancouver International,Vancouver
+Air Canada,545,AC,2023-12-25,Kona International Airport,2023-12-25T09:20:00+00:00,2023-12-25T09:27:00+00:00,8.0,Vancouver International,Vancouver
+Air France,3008,AF,2023-12-25,Kona International Airport,2023-12-25T18:15:00+00:00,2023-12-25T18:21:00+00:00,7.0,Vancouver International,Vancouver
+KLM,9634,KL,2023-12-25,Kona International Airport,2023-12-25T18:15:00+00:00,2023-12-25T18:21:00+00:00,7.0,Vancouver International,Vancouver
+WestJet,1882,WS,2023-12-25,Kona International Airport,2023-12-25T18:15:00+00:00,2023-12-25T18:21:00+00:00,7.0,Vancouver International,Vancouver
+Air Canada,1058,AC,2023-12-25,Mc Carran International,2023-12-25T15:05:00+00:00,2023-12-25T15:23:00+00:00,19.0,Vancouver International,Vancouver
+Air Canada,1060,AC,2023-12-25,Mc Carran International,2023-12-25T21:10:00+00:00,2023-12-25T21:27:00+00:00,17.0,Vancouver International,Vancouver
+Delta Air Lines,7128,DL,2023-12-25,Mc Carran International,2023-12-25T17:30:00+00:00,2023-12-25T17:45:00+00:00,15.0,Vancouver International,Vancouver
+Delta Air Lines,7130,DL,2023-12-25,Mc Carran International,2023-12-25T09:05:00+00:00,2023-12-25T09:13:00+00:00,8.0,Vancouver International,Vancouver
+Flair Airlines,1876,F8,2023-12-25,Mc Carran International,2023-12-25T15:45:00+00:00,2023-12-25T15:57:00+00:00,12.0,Vancouver International,Vancouver
+Korean Air,6568,KE,2023-12-25,Mc Carran International,2023-12-25T17:30:00+00:00,2023-12-25T17:45:00+00:00,15.0,Vancouver International,Vancouver
+Korean Air,6594,KE,2023-12-25,Mc Carran International,2023-12-25T09:05:00+00:00,2023-12-25T09:13:00+00:00,8.0,Vancouver International,Vancouver
+ANA,5394,NH,2023-12-25,Mc Carran International,2023-12-25T15:05:00+00:00,2023-12-25T15:23:00+00:00,19.0,Vancouver International,Vancouver
+WestJet,1788,WS,2023-12-25,Mc Carran International,2023-12-25T09:05:00+00:00,2023-12-25T09:13:00+00:00,8.0,Vancouver International,Vancouver
+WestJet,1790,WS,2023-12-25,Mc Carran International,2023-12-25T17:30:00+00:00,2023-12-25T17:45:00+00:00,15.0,Vancouver International,Vancouver
+American Airlines,3175,AA,2023-12-25,Los Angeles International,2023-12-25T13:34:00+00:00,2023-12-25T14:04:00+00:00,31.0,Vancouver International,Vancouver
+Air Canada,4490,AC,2023-12-25,Los Angeles International,2023-12-25T15:00:00+00:00,2023-12-25T15:07:00+00:00,8.0,Vancouver International,Vancouver
+Air Canada,552,AC,2023-12-25,Los Angeles International,2023-12-25T08:20:00+00:00,2023-12-25T08:33:00+00:00,13.0,Vancouver International,Vancouver
+Air Canada,554,AC,2023-12-25,Los Angeles International,2023-12-25T10:55:00+00:00,2023-12-25T11:08:00+00:00,14.0,Vancouver International,Vancouver
+Air Canada,556,AC,2023-12-25,Los Angeles International,2023-12-25T13:10:00+00:00,2023-12-25T13:27:00+00:00,17.0,Vancouver International,Vancouver
+Air Canada,560,AC,2023-12-25,Los Angeles International,2023-12-25T19:50:00+00:00,2023-12-25T20:18:00+00:00,29.0,Vancouver International,Vancouver
+Air France,3749,AF,2023-12-25,Los Angeles International,2023-12-25T16:20:00+00:00,2023-12-25T16:44:00+00:00,25.0,Vancouver International,Vancouver
+Aeromexico,7339,AM,2023-12-25,Los Angeles International,2023-12-25T16:20:00+00:00,2023-12-25T16:44:00+00:00,25.0,Vancouver International,Vancouver
+Aeromexico,7391,AM,2023-12-25,Los Angeles International,2023-12-25T07:55:00+00:00,2023-12-25T08:10:00+00:00,16.0,Vancouver International,Vancouver
+Alaska Airlines,4663,AS,2023-12-25,Los Angeles International,2023-12-25T13:34:00+00:00,2023-12-25T14:04:00+00:00,31.0,Vancouver International,Vancouver
+VistaJet,801,,2023-12-25,Pablo Ruiz Picasso,2023-12-25T09:45:00+00:00,2023-12-25T10:35:00+00:00,51.0,Pierre Elliott Trudeau International,Montreal
+Royal Jordanian,272,RJ,2023-12-25,Queen Alia International,2023-12-25T21:35:00+00:00,2023-12-25T22:34:00+00:00,60.0,Pierre Elliott Trudeau International,Montreal
+Air France,8276,AF,2023-12-25,Schiphol,2023-12-25T19:05:00+00:00,2023-12-25T19:18:00+00:00,14.0,Pierre Elliott Trudeau International,Montreal
+Delta Air Lines,9396,DL,2023-12-25,Schiphol,2023-12-25T19:05:00+00:00,2023-12-25T19:18:00+00:00,14.0,Pierre Elliott Trudeau International,Montreal
+KLM,672,KL,2023-12-25,Schiphol,2023-12-25T19:05:00+00:00,2023-12-25T19:18:00+00:00,14.0,Pierre Elliott Trudeau International,Montreal
+Virgin Atlantic,6869,VS,2023-12-25,Schiphol,2023-12-25T19:05:00+00:00,2023-12-25T19:18:00+00:00,14.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,8569,AC,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:25:00+00:00,2023-12-25T18:39:00+00:00,15.0,Pierre Elliott Trudeau International,Montreal
+Aeromexico,4314,AM,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T07:00:00+00:00,2023-12-25T07:27:00+00:00,28.0,Pierre Elliott Trudeau International,Montreal
+Aeromexico,4988,AM,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T13:28:00+00:00,2023-12-25T13:38:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Delta Air Lines,1526,DL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T07:00:00+00:00,2023-12-25T07:27:00+00:00,28.0,Pierre Elliott Trudeau International,Montreal
+Delta Air Lines,2597,DL,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T13:28:00+00:00,2023-12-25T13:38:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Korean Air,3771,KE,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T07:00:00+00:00,2023-12-25T07:27:00+00:00,28.0,Pierre Elliott Trudeau International,Montreal
+Korean Air,3794,KE,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T13:28:00+00:00,2023-12-25T13:38:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+LATAM Airlines,8962,LA,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T13:28:00+00:00,2023-12-25T13:38:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+LATAM Airlines,8995,LA,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T07:00:00+00:00,2023-12-25T07:27:00+00:00,28.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8256,UA,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T18:25:00+00:00,2023-12-25T18:39:00+00:00,15.0,Pierre Elliott Trudeau International,Montreal
+WestJet,6339,WS,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T13:28:00+00:00,2023-12-25T13:38:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+WestJet,6536,WS,2023-12-25,Hartsfield-jackson Atlanta International,2023-12-25T07:00:00+00:00,2023-12-25T07:27:00+00:00,28.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,822,AC,2023-12-25,El Prat De Llobregat,2023-12-25T18:20:00+00:00,2023-12-25T18:35:00+00:00,15.0,Pierre Elliott Trudeau International,Montreal
+Lufthansa,6631,LH,2023-12-25,El Prat De Llobregat,2023-12-25T18:20:00+00:00,2023-12-25T18:35:00+00:00,15.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8674,UA,2023-12-25,El Prat De Llobregat,2023-12-25T18:20:00+00:00,2023-12-25T18:35:00+00:00,15.0,Pierre Elliott Trudeau International,Montreal
+Starlink Aviation,822,Q4,2023-12-25,L. F. Wade International,2023-12-25T14:00:00+00:00,,,Pierre Elliott Trudeau International,Montreal
+Air Canada,962,AC,2023-12-25,Grantley Adams International,2023-12-25T09:30:00+00:00,2023-12-25T09:36:00+00:00,7.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,748,AC,2023-12-25,Logan International,2023-12-25T08:00:00+00:00,2023-12-25T08:12:00+00:00,12.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,752,AC,2023-12-25,Logan International,2023-12-25T16:45:00+00:00,2023-12-25T16:49:00+00:00,4.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,8606,AC,2023-12-25,Logan International,2023-12-25T13:10:00+00:00,2023-12-25T13:18:00+00:00,9.0,Pierre Elliott Trudeau International,Montreal
+Brussels Airlines,9617,SN,2023-12-25,Logan International,2023-12-25T13:10:00+00:00,2023-12-25T13:18:00+00:00,9.0,Pierre Elliott Trudeau International,Montreal
+TAP Air Portugal,8267,TP,2023-12-25,Logan International,2023-12-25T13:10:00+00:00,2023-12-25T13:18:00+00:00,9.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8122,UA,2023-12-25,Logan International,2023-12-25T13:10:00+00:00,2023-12-25T13:18:00+00:00,9.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8358,UA,2023-12-25,Logan International,2023-12-25T16:45:00+00:00,2023-12-25T16:49:00+00:00,4.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8416,UA,2023-12-25,Logan International,2023-12-25T08:00:00+00:00,2023-12-25T08:12:00+00:00,12.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,832,AC,2023-12-25,Brussels Airport,2023-12-25T18:50:00+00:00,2023-12-25T19:24:00+00:00,35.0,Pierre Elliott Trudeau International,Montreal
+Lufthansa,6599,LH,2023-12-25,Brussels Airport,2023-12-25T18:50:00+00:00,2023-12-25T19:24:00+00:00,35.0,Pierre Elliott Trudeau International,Montreal
+Austrian,8234,OS,2023-12-25,Brussels Airport,2023-12-25T18:50:00+00:00,2023-12-25T19:24:00+00:00,35.0,Pierre Elliott Trudeau International,Montreal
+Croatia Airlines,5915,OU,2023-12-25,Brussels Airport,2023-12-25T18:50:00+00:00,2023-12-25T19:24:00+00:00,35.0,Pierre Elliott Trudeau International,Montreal
+Brussels Airlines,9552,SN,2023-12-25,Brussels Airport,2023-12-25T18:50:00+00:00,2023-12-25T19:24:00+00:00,35.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8612,UA,2023-12-25,Brussels Airport,2023-12-25T18:50:00+00:00,2023-12-25T19:24:00+00:00,35.0,Pierre Elliott Trudeau International,Montreal
+Air Transat,856,TS,2023-12-25,"Jardines Del Rey Airport
+",2023-12-25T14:50:00+00:00,2023-12-25T15:04:00+00:00,15.0,Pierre Elliott Trudeau International,Montreal
+Sunwing,6106,WG,2023-12-25,"Jardines Del Rey Airport
+",2023-12-25T06:00:00+00:00,2023-12-25T06:22:00+00:00,22.0,Pierre Elliott Trudeau International,Montreal
+Aegean Airlines,3063,A3,2023-12-25,Charles De Gaulle,2023-12-25T21:25:00+00:00,2023-12-25T21:51:00+00:00,27.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,870,AC,2023-12-25,Charles De Gaulle,2023-12-25T21:25:00+00:00,2023-12-25T21:51:00+00:00,27.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,874,AC,2023-12-25,Charles De Gaulle,2023-12-25T18:10:00+00:00,2023-12-25T19:20:00+00:00,71.0,Pierre Elliott Trudeau International,Montreal
+Air France,345,AF,2023-12-25,Charles De Gaulle,2023-12-25T17:00:00+00:00,2023-12-25T17:10:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Air France,347,AF,2023-12-25,Charles De Gaulle,2023-12-25T19:05:00+00:00,2023-12-25T19:14:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Air France,349,AF,2023-12-25,Charles De Gaulle,2023-12-25T21:50:00+00:00,2023-12-25T22:19:00+00:00,29.0,Pierre Elliott Trudeau International,Montreal
+Delta Air Lines,8262,DL,2023-12-25,Charles De Gaulle,2023-12-25T17:00:00+00:00,2023-12-25T17:10:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Delta Air Lines,8612,DL,2023-12-25,Charles De Gaulle,2023-12-25T19:05:00+00:00,2023-12-25T19:14:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Delta Air Lines,8613,DL,2023-12-25,Charles De Gaulle,2023-12-25T21:50:00+00:00,2023-12-25T22:19:00+00:00,29.0,Pierre Elliott Trudeau International,Montreal
+KLM,2389,KL,2023-12-25,Charles De Gaulle,2023-12-25T17:00:00+00:00,2023-12-25T17:10:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+KLM,2440,KL,2023-12-25,Charles De Gaulle,2023-12-25T19:05:00+00:00,2023-12-25T19:14:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+KLM,2441,KL,2023-12-25,Charles De Gaulle,2023-12-25T21:50:00+00:00,2023-12-25T22:19:00+00:00,29.0,Pierre Elliott Trudeau International,Montreal
+Lufthansa,6809,LH,2023-12-25,Charles De Gaulle,2023-12-25T18:10:00+00:00,2023-12-25T19:20:00+00:00,71.0,Pierre Elliott Trudeau International,Montreal
+Lufthansa,6819,LH,2023-12-25,Charles De Gaulle,2023-12-25T21:25:00+00:00,2023-12-25T21:51:00+00:00,27.0,Pierre Elliott Trudeau International,Montreal
+Middle East Airlines,4345,ME,2023-12-25,Charles De Gaulle,2023-12-25T17:00:00+00:00,2023-12-25T17:10:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Middle East Airlines,4347,ME,2023-12-25,Charles De Gaulle,2023-12-25T19:05:00+00:00,2023-12-25T19:14:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Middle East Airlines,4349,ME,2023-12-25,Charles De Gaulle,2023-12-25T21:50:00+00:00,2023-12-25T22:19:00+00:00,29.0,Pierre Elliott Trudeau International,Montreal
+Austrian,8236,OS,2023-12-25,Charles De Gaulle,2023-12-25T21:25:00+00:00,2023-12-25T21:51:00+00:00,27.0,Pierre Elliott Trudeau International,Montreal
+Austrian,8242,OS,2023-12-25,Charles De Gaulle,2023-12-25T18:10:00+00:00,2023-12-25T19:20:00+00:00,71.0,Pierre Elliott Trudeau International,Montreal
+Croatia Airlines,5931,OU,2023-12-25,Charles De Gaulle,2023-12-25T18:10:00+00:00,2023-12-25T19:20:00+00:00,71.0,Pierre Elliott Trudeau International,Montreal
+Porter Airlines,7110,PD,2023-12-25,Charles De Gaulle,2023-12-25T20:20:00+00:00,2023-12-25T20:55:00+00:00,36.0,Pierre Elliott Trudeau International,Montreal
+Porter Airlines,7250,PD,2023-12-25,Charles De Gaulle,2023-12-25T18:50:00+00:00,2023-12-25T19:22:00+00:00,33.0,Pierre Elliott Trudeau International,Montreal
+Brussels Airlines,9634,SN,2023-12-25,Charles De Gaulle,2023-12-25T21:25:00+00:00,2023-12-25T21:51:00+00:00,27.0,Pierre Elliott Trudeau International,Montreal
+Brussels Airlines,9636,SN,2023-12-25,Charles De Gaulle,2023-12-25T18:10:00+00:00,2023-12-25T19:20:00+00:00,71.0,Pierre Elliott Trudeau International,Montreal
+Air Transat,110,TS,2023-12-25,Charles De Gaulle,2023-12-25T20:20:00+00:00,2023-12-25T20:55:00+00:00,36.0,Pierre Elliott Trudeau International,Montreal
+Air Transat,250,TS,2023-12-25,Charles De Gaulle,2023-12-25T18:50:00+00:00,2023-12-25T19:22:00+00:00,33.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8062,UA,2023-12-25,Charles De Gaulle,2023-12-25T18:10:00+00:00,2023-12-25T19:20:00+00:00,71.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8118,UA,2023-12-25,Charles De Gaulle,2023-12-25T21:25:00+00:00,2023-12-25T21:51:00+00:00,27.0,Pierre Elliott Trudeau International,Montreal
+Virgin Atlantic,6795,VS,2023-12-25,Charles De Gaulle,2023-12-25T17:00:00+00:00,2023-12-25T17:10:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Virgin Atlantic,6796,VS,2023-12-25,Charles De Gaulle,2023-12-25T19:05:00+00:00,2023-12-25T19:14:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Virgin Atlantic,6797,VS,2023-12-25,Charles De Gaulle,2023-12-25T21:50:00+00:00,2023-12-25T22:19:00+00:00,29.0,Pierre Elliott Trudeau International,Montreal
+American Airlines,5029,AA,2023-12-25,Charlotte Douglas,2023-12-25T14:24:00+00:00,2023-12-25T14:35:00+00:00,12.0,Pierre Elliott Trudeau International,Montreal
+American Airlines,5037,AA,2023-12-25,Charlotte Douglas,2023-12-25T07:15:00+00:00,2023-12-25T07:38:00+00:00,24.0,Pierre Elliott Trudeau International,Montreal
+Royal Air Maroc,207,AT,2023-12-25,Mohamed V,2023-12-25T10:25:00+00:00,2023-12-25T11:02:00+00:00,37.0,Pierre Elliott Trudeau International,Montreal
+Royal Air Maroc,209,AT,2023-12-25,Mohamed V,2023-12-25T20:35:00+00:00,2023-12-25T20:38:00+00:00,4.0,Pierre Elliott Trudeau International,Montreal
+Air Transat,198,TS,2023-12-25,Rafael Nunez,2023-12-25T09:50:00+00:00,2023-12-25T10:02:00+00:00,13.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,926,AC,2023-12-25,Cancún International,2023-12-25T08:05:00+00:00,2023-12-25T08:48:00+00:00,43.0,Pierre Elliott Trudeau International,Montreal
+Flair Airlines,2100,F8,2023-12-25,Cancún International,2023-12-25T13:30:00+00:00,2023-12-25T14:08:00+00:00,39.0,Pierre Elliott Trudeau International,Montreal
+Air Canada Rouge,1884,RV,2023-12-25,Cancún International,2023-12-25T17:15:00+00:00,2023-12-25T17:39:00+00:00,24.0,Pierre Elliott Trudeau International,Montreal
+Air Transat,538,TS,2023-12-25,Cancún International,2023-12-25T07:20:00+00:00,2023-12-25T07:32:00+00:00,13.0,Pierre Elliott Trudeau International,Montreal
+Air Transat,938,TS,2023-12-25,Cancún International,2023-12-25T14:25:00+00:00,2023-12-25T14:45:00+00:00,21.0,Pierre Elliott Trudeau International,Montreal
+Sunwing,5163,WG,2023-12-25,Cancún International,2023-12-25T09:30:00+00:00,2023-12-25T09:42:00+00:00,12.0,Pierre Elliott Trudeau International,Montreal
+Sunwing,517,WG,2023-12-25,Cancún International,2023-12-25T16:00:00+00:00,2023-12-25T16:22:00+00:00,23.0,Pierre Elliott Trudeau International,Montreal
+Air Canada Rouge,1748,RV,2023-12-25,Cozumel,2023-12-25T09:30:00+00:00,2023-12-25T09:28:00+00:00,10.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,8821,AC,2023-12-25,Ronald Reagan Washington National Airport,2023-12-25T08:30:00+00:00,2023-12-25T08:54:00+00:00,24.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,8823,AC,2023-12-25,Ronald Reagan Washington National Airport,2023-12-25T13:45:00+00:00,2023-12-25T14:06:00+00:00,22.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,8825,AC,2023-12-25,Ronald Reagan Washington National Airport,2023-12-25T19:50:00+00:00,2023-12-25T19:59:00+00:00,9.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8366,UA,2023-12-25,Ronald Reagan Washington National Airport,2023-12-25T19:50:00+00:00,2023-12-25T19:59:00+00:00,9.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8372,UA,2023-12-25,Ronald Reagan Washington National Airport,2023-12-25T13:45:00+00:00,2023-12-25T14:06:00+00:00,22.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8666,UA,2023-12-25,Ronald Reagan Washington National Airport,2023-12-25T08:30:00+00:00,2023-12-25T08:54:00+00:00,24.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,50,AC,2023-12-25,Indira Gandhi International,2023-12-25T20:30:00+00:00,2023-12-25T20:51:00+00:00,21.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8041,UA,2023-12-25,Indira Gandhi International,2023-12-25T20:30:00+00:00,2023-12-25T20:51:00+00:00,21.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,1073,AC,2023-12-25,Denver International,2023-12-25T08:30:00+00:00,2023-12-25T08:42:00+00:00,12.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8523,UA,2023-12-25,Denver International,2023-12-25T08:30:00+00:00,2023-12-25T08:42:00+00:00,12.0,Pierre Elliott Trudeau International,Montreal
+American Airlines,1964,AA,2023-12-25,Dallas/Fort Worth International,2023-12-25T15:45:00+00:00,2023-12-25T15:52:00+00:00,8.0,Pierre Elliott Trudeau International,Montreal
+Air Canada,1071,AC,2023-12-25,Dallas/Fort Worth International,2023-12-25T18:40:00+00:00,2023-12-25T19:06:00+00:00,27.0,Pierre Elliott Trudeau International,Montreal
+Qatar Airways,2319,QR,2023-12-25,Dallas/Fort Worth International,2023-12-25T15:45:00+00:00,2023-12-25T15:52:00+00:00,8.0,Pierre Elliott Trudeau International,Montreal
+United Airlines,8377,UA,2023-12-25,Dallas/Fort Worth International,2023-12-25T18:40:00+00:00,2023-12-25T19:06:00+00:00,27.0,Pierre Elliott Trudeau International,Montreal
+Malaysia Airlines,9296,MH,2023-12-25,Doha International,2023-12-25T20:50:00+00:00,2023-12-25T21:47:00+00:00,58.0,Pierre Elliott Trudeau International,Montreal
+Qatar Airways,764,QR,2023-12-25,Doha International,2023-12-25T20:50:00+00:00,2023-12-25T21:47:00+00:00,58.0,Pierre Elliott Trudeau International,Montreal
+SriLankan Airlines,3177,UL,2023-12-25,Doha International,2023-12-25T20:50:00+00:00,2023-12-25T21:47:00+00:00,58.0,Pierre Elliott Trudeau International,Montreal
